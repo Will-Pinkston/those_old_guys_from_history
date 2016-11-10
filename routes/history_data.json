@@ -1,0 +1,271 @@
+[
+{
+	"name": "Isaac Newton",
+	
+	"info": "Sir Isaac Newton was an English physicist and mathematician (described in his own day as a \"natural philosopher\") who is widely recognised as one of the most influential scientists of all time and a key figure in the scientific revolution. His book Philosophia Naturalis Principia Mathematica (\"Mathematical Principles of Natural Philosophy\"), first published in 1687, laid the foundations for classical mechanics. Newton made seminal contributions to optics, and he shares credit with Gottfried Wilhelm Leibniz for the development of calculus.",
+	
+	"image": "images/newton.jpg",
+	
+	"left_link": 
+	{
+		"name": "Gottfried William Leibniz",
+		"relation": "Newton competed with Leibniz over who first created calculus",
+		"image": "images/leibniz.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Nicolas Fatio de Duillier",
+	 	"relation": "Newton worked with Fatio on writing a new version of one of his works, Principia",
+		"image": "images/duillier.jpg"
+	},
+	"right_link": 
+	{
+		"name": "John Locke",
+		"relation": "Newton wwrote a number of letters to Locke on philosophy and religion",
+		"image": "images/locke.jpg"
+	}
+},
+
+{
+	"name": "Gottfried Wilhelm Leibniz",
+
+	"info": "Gottfried Wilhelm (von) Leibniz was a German polymath and philosopher who occupies a prominent place in the history of mathematics and the history of philosophy, having developed differential and integral calculus independently of Isaac Newton. Leibniz's notation has been widely used ever since it was published. It was only in the 20th century that his Law of Continuity and Transcendental Law of Homogeneity found mathematical implementation (by means of non-standard analysis). He became one of the most prolific inventors in the field of mechanical calculators. While working on adding automatic multiplication and division to Pascal's calculator, he was the first to describe a pinwheel calculator in 1685 and invented the Leibniz wheel, used in the arithmometer, the first mass-produced mechanical calculator. He also refined the binary number system, which is the foundation of virtually all digital computers.",
+
+	"image": "images/leibniz.jpg",
+
+	"left_link": 
+	{
+		"name": "Isaac Newton",
+		"relation": "Leibniz competed with Newton over who first created calculus",
+		"image": "images/newton.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Nicolas Fatio de Duillier",
+		"relation": "Leibniz corresponded with Fatio during the controversy with Newton",
+		"image": "images/duillier.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Blaise Pascal",
+		"relation": "Leibniz made innovative strides while developing on Pascal's calculator",
+		"image": "images/pascal.jpg"
+	}
+},
+
+{
+	"name": "Rene Descartes",
+
+	"info": "Rene Descartes was a French philosopher, mathematician, and scientist. Dubbed the father of modern western philosophy, much of subsequent Western philosophy is a response to his writings, which are studied closely to this day. He spent about 20 years of his life in the Dutch Republic. Descartes's Meditations on First Philosophy continues to be a standard text at most university philosophy departments. Descartes's influence in mathematics is equally apparent; the Cartesian coordinate system—allowing reference to a point in space as a set of numbers, and allowing algebraic equations to be expressed as geometric shapes in a two- or three-dimensional coordinate system (and conversely, shapes to be described as equations)—was named after him. He is credited as the father of analytical geometry, the bridge between algebra and geometry, used in the discovery of infinitesimal calculus and analysis. Descartes was also one of the key figures in the scientific revolution.",
+
+	"image": "images/descartes.jpg",
+
+	"left_link": 
+	{
+		"name": "Francis Bacon",
+		"relation": "Descartes's dualism was overshadowed by Bacon's non-metaphysical approach to science during the French Enlightenment",
+		"image": "images/bacon.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Blaise Pascal",
+		"relation": "Descartes found Pascal's early works overly precocious and supposed that they had actually been written by Pascal's father",
+		"image": "images/pascal.jpg"
+	},
+	"right_link": 
+	{
+		"name": "John Locke",
+		"relation": "Locke was one of the greatest opponents to rationalism",
+		"image": "images/locke.jpg"
+	}
+},
+
+{
+	"name": "John Locke",
+
+	"info": "John Locke was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the \"Father of Liberalism\". Considered one of the first of the British empiricists, following the tradition of Sir Francis Bacon, he is equally important to social contract theory. His work greatly affected the development of epistemology and political philosophy. His writings influenced Voltaire and Rousseau, many Scottish Enlightenment thinkers, as well as the American revolutionaries. His contributions to classical republicanism and liberal theory are reflected in the United States Declaration of Independence. Locke's theory of mind is often cited as the origin of modern conceptions of identity and the self, figuring prominently in the work of later philosophers such as Hume, Rousseau, and Kant. Locke was the first to define the self through a continuity of consciousness. He postulated that, at birth, the mind was a blank slate or tabula rasa. Contrary to Cartesian philosophy based on pre-existing concepts, he maintained that we are born without innate ideas, and that knowledge is instead determined only by experience derived from sense perception.",
+
+	"image": "images/locke.jpg",
+
+	"left_link": 
+	{
+		"name": "Francis Bacon",
+		"relation": "Locke followed Bacon's tradition and became one of Britian's first empiricists",
+		"image": "images/bacon.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Rene Descartes",
+		"relation": "Locke preferred reading the writings of modern philosophers - including Descartes - over the university cirriculum of the time",
+		"image": "images/descartes.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Isaac Newton",
+		"relation": "Locke spent some time at Essex, where he met and started a correspondence with Newton",
+		"image": "images/newton.jpg"
+	}
+},
+
+{
+	"name": "Blaise Pascal",
+
+	"info": "Blaise Pascal was a French mathematician, physicist, inventor, writer and Christian philosopher. He was a child prodigy who was educated by his father, a tax collector in Rouen. Pascal's earliest work was in the natural and applied sciences where he made important contributions to the study of fluids, and clarified the concepts of pressure and vacuum by generalising the work of Evangelista Torricelli. Pascal also wrote in defence of the scientific method. In 1642, while still a teenager, he started some pioneering work on calculating machines. After three years of effort and 50 prototypes, he built 20 finished machines (called Pascal's calculators and later Pascalines) over the following 10 years, establishing him as one of the first two inventors of the mechanical calculator.",
+
+	"image": "images/pascal.jpg",
+
+	"left_link": 
+	{
+		"name": "Galileo Galilei",
+		"relation": "Pascal supported Galileo's theory of vacuums in nature",
+		"image": "images/galileo.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Rene Descartes",
+		"relation": "Pascal argued that many forms of philosophy should adopt Descartes's philosophy of formalism",
+		"image": "images/descartes.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Gottfried Wilhelm Leibniz",
+		"relation": "Pascal's work on probabilities laid basic groundwork for Leibniz's calculus",
+		"image": "images/leibniz.jpg"
+	}
+},
+
+{
+	"name": "Nicolas Fatio de Duillier",
+
+	"info": "Nicolas Fatio de Duillier was a Swiss mathematician known for his work on the zodiacal light problem, for his very close relationship with Isaac Newton, for his role in the Newton v. Leibniz calculus controversy, and for originating the \"push\" or \"shadow\" theory of gravitation. He also developed and patented a method of perforating jewels for use in clocks.",
+
+	"image": "images/duillier.jpg",
+
+	"left_link": 
+	{
+		"name": "Gottfried Wilhelm Leibniz",
+		"relation": "Fatio corresponded with Leibniz during the controversy with Newton",
+		"image": "images/leibniz.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Isaac Newton",
+		"relation": "Fatio worked with Newton at Cambridge, and for a time intended to write a new edition of Newton's Principia",
+		"image": "images/newton.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Giovanni Domenico Cassini",
+		"relation": "Fatio Studied astronomy under Cassini",
+		"image": "images/cassini.jpg"
+	}
+},
+
+{
+	"name": "Giovanni Domenico Cassini",
+
+	"info": "Giovanni(a) Domenico Cassini was an Italian mathematician, astronomer, astrologer and engineer. Cassini was born in Perinaldo, near Imperia, at that time in the County of Nice, part of the Duchy of Savoy. Cassini is known for his work in the fields of astronomy and engineering. Cassini discovered four satellites of the planet Saturn and noted the division of the rings of Saturn; the Cassini Division was named after him. Giovanni Domenico Cassini was also the first of his family to begin work on the project of creating a topographic map of France. The Cassini spaceprobe, launched in 1997, was named after him and became the fourth to visit Saturn and the first to orbit the planet.",
+
+	"image": "images/cassini.jpg",
+
+	"left_link": 
+	{
+		"name": "Galileo Galilei",
+		"relation": "Cassini was the first to use Galileo's method to measure longitude",
+		"image": "images/galileo.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Tycho Brahe",
+		"relation": "Cassini's studies led him to accept Brahe's model of the solar system before finally accepting the Copernican model",
+		"image": "images/brahe.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Nicolas Fatio de Duillier",
+		"relation": "Cassini taught Fatio astronomy as one of his students",
+		"image": "images/duillier.jpg"
+	}
+},
+
+{
+	"name": "Galileo Galilei",
+
+	"info": "Galileo Galilei was an Italian polymath: astronomer, physicist, engineer, philosopher, and mathematician, he played a major role in the scientific revolution of the seventeenth century. He has been called the \"father of observational astronomy\", the \"father of modern physics\", the \"father of scientific method\", and the \"father of science\". His contributions to observational astronomy include the telescopic confirmation of the phases of Venus, the discovery of the four largest satellites of Jupiter (named the Galilean moons in his honour), and the observation and analysis of sunspots. Galileo also worked in applied science and technology, inventing an improved military compass and other instruments. Galileo's championing of heliocentrism and Copernicanism was controversial during his lifetime, when most subscribed to either geocentrism or the Tychonic system. He met with opposition from astronomers, who doubted heliocentrism because of the absence of an observed stellar parallax.",
+
+	"image": "images/galileo.jpg",
+
+	"left_link": 
+	{
+		"name": "Giovanni Domenico Cassini",
+		"relation": "Galileo proposed that it would be possible to use other planets in the solar system to calculate longitude, which Casini applied practically",
+		"image": "images/cassini.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Tycho Brahe",
+		"relation": "Galileo's support of a heliocentric solar system met staunch opposition from Brahe and others",
+		"image": "images/brahe.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Blaise Pascal",
+		"relation": "Galileo's proposition that vacuums were a natural occurence was supported by Pascal",
+		"image": "images/pascal.jpg"
+	}
+},
+
+{
+	"name": "Tycho Brahe",
+
+	"info": "Tycho Brahe was a Danish nobleman known for his accurate and comprehensive astronomical and planetary observations. He was born in the then Danish peninsula of Scania. Well known in his lifetime as an astronomer, astrologer and alchemist, he has been described as \"the first competent mind in modern astronomy to feel ardently the passion for exact empirical facts.\" His observations were some five times more accurate than the best available observations at the time.",
+
+	"image": "images/brahe.jpg",
+
+	"left_link": 
+	{
+		"name": "Francis Bacon",
+		"relation": "Brahe and Bacon championed competing theories on the mechanics of the solar system",
+		"image": "images/bacon.jpg"
+	},
+	"center_link": 
+	{
+		"name": "Giovanni Domenico Cassini",
+		"relation": "Brahe's model of the solar system influenced Cassini away from geocentrism",
+		"image": "images/cassini.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Galileo Galilei",
+		"relation": "Brahe was the last major astronomer to work without the telescopes pioneered by Galileo",
+		"image": "images/galileo.jpg"
+	}
+},
+
+{
+	"name": "Francis Bacon",
+
+	"info": "Francis Bacon, 1st Viscount St Alban(a) was an English philosopher, statesman, scientist, jurist, orator, and author. He served both as Attorney General and as Lord Chancellor of England. After his death, he remained extremely influential through his works, especially as philosophical advocate and practitioner of the scientific method during the scientific revolution. Bacon has been called the father of empiricism. His works argued for the possibility of scientific knowledge based only upon inductive and careful observation of events in nature. Most importantly, he argued this could be achieved by use of a skeptical and methodical approach whereby scientists aim to avoid misleading themselves. While his own practical ideas about such a method, the Baconian method, did not have a long lasting influence, the general idea of the importance and possibility of a skeptical methodology makes Bacon the father of scientific method. This marked a new turn in the rhetorical and theoretical framework for science, the practical details of which are still central in debates about science and methodology today.",
+
+	"image": "images/bacon.jpg",
+
+	"left_link": 
+	{
+		"name": "Tycho Brahe",
+		"relation": "Bacon and Brahe championed competing theories on the mechanics of the solar system",
+		"image": "images/brahe.jpg"
+	},
+	"center_link": 
+	{
+		"name": "John Locke",
+		"relation": "Bacon's scientific traditions inspired John Locke to become England's first empiricist",
+		"image": "images/locke.jpg"
+	},
+	"right_link": 
+	{
+		"name": "Rene Descartes",
+		"relation": "Bacon's perception of science won out over Descartes's dualism, leading to Bacon being regarded as the father of the scientific method",
+		"image": "images/descartes.jpg"
+	}
+}
+]

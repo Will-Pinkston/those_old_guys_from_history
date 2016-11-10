@@ -1,0 +1,96 @@
+
+
+
+body {
+    background-color: rgb(25,22,13);
+/*        background: linear-gradient(to left, rgb(25,22,13), rgb(53,52,47), rgb(25,22,13));*/
+    color: rgb(109,109,109);
+}
+
+#person_name {
+    text-align: center;
+    color: rgb(125,125,125);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+    border-bottom: solid rgba(232,228,218,0.5) 5px;
+    font-family: 'Homemade Apple', cursive;
+}
+
+#wrapper {
+    margin: 0px 60px 60px 60px;
+    background-color: rgb(53,52,47);
+    background: radial-gradient(rgba(53,52,47, 0.5), rgb(25,22,13));
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+}
+
+#nameDiv {
+}
+
+#person_description {
+    padding: 20px;
+    text-align: justify;
+}
+
+
+.link {
+    text-align: center;
+    padding: 10px;
+}
+
+#link_one {
+    padding-bottom: 5px;
+    border-bottom: solid rgba(232,228,218,0.5) 2px;
+}
+
+#link_three {
+    padding-bottom: 5px;
+    border-bottom: solid rgba(232,228,218,0.5) 2px;
+}
+
+#link_two {
+/*
+    padding-left: 10px;
+    padding-right: 10px;
+*/
+    padding-bottom: 5px;
+    border-bottom: solid rgba(232,228,218,0.5) 2px;
+}
+
+img {
+    width: 75%;
+    height: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
+.link img {
+    padding-top: 12px;
+    width: 200px;
+    height: 250px;
+}
+
+
+
+#headbar {
+    margin-top: 25px;
+    margin-bottom: 40px;
+    padding: 10px;
+    background-color: rgb(191,188,179);
+/*    background: linear-gradient(to left, rgb(25,22,13), rgb(191,188,179), rgb(25,22,13));*/
+    color: black;
+}
+
+#person_links {
+    text-align: center;
+/*    border-top: solid rgba(232,228,218,0.2) 2px;*/
+    border-bottom: solid rgba(232,228,218,0.2) 2px;
+}
+
+#headbar_1 {
+    margin-left: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+

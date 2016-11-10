@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+    <head>
+        <!--Bootstrap-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+        
+        <!--Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Homemade+Apple|Quicksand" rel="stylesheet">
+        <!--AngularJS-->
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script>
+        <link rel="stylesheet" href="stylesheets/history.css"/>
+        <script src="javascripts/history.js"></script>
+    </head>
+    <body>
+        <div id="headbar" class="row">
+            <div id="headbar_1"><h2>Some Old Guys Who Did Stuff</h2></div>
+        </div><!--end headbar-->
+        <div id="wrapper" class="row" ng-app="app" ng-controller="MainCtrl">
+            <div id="nameDiv"><!--heading-->
+                <h1 id="person_name">{{person.name}}</h1>
+            </div>
+            
+            <div class="row"><!--information display-->
+                <div class="col-md-4"></div><!--filler-->
+                <div class="col-md-4">
+                    <p id="person_description">{{person.info}}</p>
+                </div>
+                <div id="person_img" class="col-md-4">
+                    <img src={{person.image}}>
+                </div>
+                
+            </div><!-- end info display -->
+            <div class="row">
+                <div>
+                    <h4 id="person_links">Related</h4>
+                </div>
+                <div class="link col-xs-4">
+                    <span id="link_one" >
+                        {{person.left_link.name}}
+                    </span>
+                    <img ng-click="loadLeft()" src={{person.left_link.image}}>
+                </div>
+
+                <div class="link col-xs-4">
+                    <span id="link_two">
+                        {{person.center_link.name}}
+                    </span>
+                    <img ng-click="loadCenter()" src={{person.center_link.image}}>
+                </div>
+
+                <div class="link col-xs-4">
+                    <span id="link_three">
+                        {{person.right_link.name}}
+                    </span>
+                    <img ng-click="loadRight()" src={{person.right_link.image}}>
+                </div>
+                    
+            </div>
+        </div>
+    </body>
+</html>
+
+
+
+
