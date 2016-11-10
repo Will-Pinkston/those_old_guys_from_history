@@ -21,8 +21,8 @@
             </div>
             
             <div class="row"><!--information display-->
-                <div class="col-md-4"></div><!--filler-->
-                <div class="col-md-4">
+              <!--  <div class="col-md-4"></div> -->
+                <div class="col-md-8">
                     <p id="person_description">{{person.info}}</p>
                 </div>
                 <div id="person_img" class="col-md-4">
@@ -39,6 +39,7 @@
                         {{person.left_link.name}}
                     </span>
                     <img ng-click="loadLeft()" src={{person.left_link.image}}>
+			<p>{{person.left_link.relation}}</p>
                 </div>
 
                 <div class="link col-xs-4">
@@ -46,6 +47,7 @@
                         {{person.center_link.name}}
                     </span>
                     <img ng-click="loadCenter()" src={{person.center_link.image}}>
+			<p>{{person.center_link.relation}}</p>
                 </div>
 
                 <div class="link col-xs-4">
@@ -53,6 +55,7 @@
                         {{person.right_link.name}}
                     </span>
                     <img ng-click="loadRight()" src={{person.right_link.image}}>
+			<p>{{person.right_link.relation}}</p>
                 </div>
                     
             </div>
